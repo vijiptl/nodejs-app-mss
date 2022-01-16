@@ -26,13 +26,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/MithunTechnologies/node-js-application"
+    "url": "https://github.com/vijiptl/nodejs-app-mss.git"
   },
   "keywords": [
     "node",
     "Mithun Technologies",
     "express"
   ],
-  "author": "Mithun Reddy Lacchannagari",
+  "author": "Vijayananda Patil",
   "license": "MIT"
 }

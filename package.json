@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": http://ec2-3-109-181-90.ap-south-1.compute.amazonaws.com:8081/repository/Nodejs-project/
+    "registry": "http://ec2-3-109-181-90.ap-south-1.compute.amazonaws.com:8081/repository/Nodejs-project/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
